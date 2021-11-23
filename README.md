@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![數據](https://github-readme-stats.vercel.app/api?username=ms0481150)]()
+[![mystatus](https://github-readme-stats.vercel.app/api?username=ms0481150)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms0481150&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ms0481150/ms0481150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
