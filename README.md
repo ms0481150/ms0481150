@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![mystatus](https://github-readme-stats.vercel.app/api?username=ms0481150)]()
+[![mystatus](https://github-readme-stats.vercel.app/api?username=ms0481150&count_private=true)]()
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms0481150&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms0481150&layout=compact&langs_count=5&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
